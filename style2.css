@@ -1,0 +1,41 @@
+.header { 
+    background-color: rgb(116, 116, 202); 
+    text-align: start; 
+    margin: 0; 
+    padding: 0; 
+  } 
+   
+  title { 
+    color: white; 
+    font-size: 30px; 
+  } 
+   
+  description { 
+    color: white; 
+    font-size: 24px; 
+    padding-bottom: auto; 
+  } 
+  .wrapper { 
+    width: 1000px; 
+    margin: 0 auto; 
+  } 
+  .wrapper p{ 
+  margin: 0 
+  } 
+  .footer { 
+    background-color: rgb(192, 192, 250); 
+    padding: 50px; 
+  } 
+   
+  .title { 
+    color: white; 
+    font-size: 36px; 
+  } 
+   
+  .description { 
+    color: white; 
+    font-size: 24px; 
+    padding-bottom: 50px; 
+  }
+
+  
