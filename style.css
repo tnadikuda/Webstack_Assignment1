@@ -1,4 +1,20 @@
-body{
+footer {
+    background-color: rgb(192, 192, 250);
+    padding: 50px;
+  }
+
+  .title {
+    color: white;
+    font-size: 36px;
+  }
+
+  .description {
+    color: white;
+    font-size: 24px;
+    padding-bottom: 50px;
+  }
+
+  body{
     padding: 25px;
  }
  
@@ -15,3 +31,30 @@ body{
     border: 0;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
   }
+header {
+    background-color: rgb(255, 255, 255);
+    text-align: start;
+    padding-left: 25px;
+  }
+.jumbotron {
+    background-color: rgb(116, 116, 202);
+    text-align: start;
+    
+  }
+.img {
+  display: block;
+  max-width: 50%;
+  height: auto;
+}
+
+.navbar .navbar-brand img {
+  height: 30px;
+}
+.card .form-inline .form-group input {
+  margin-left:0px;
+}
+
+.row .media img{
+  height: 80px;
+  align-self: center;
+}
